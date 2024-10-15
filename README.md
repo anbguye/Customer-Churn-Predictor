@@ -1,0 +1,1 @@
+In this project, I built an end-to-end pipeline for a customer churn prediction model. Learned how to load in datasets, clean data, train 5 different ML models, perform hyperparameter tuning, and served the model for inference through a web app.
